@@ -1,0 +1,1 @@
+This repository demonstrates a common subtle bug in Ruby: type errors arising from implicit type coercion. The `bug.rb` file contains code that attempts to add 1 to a string, leading to a `TypeError`.  The `bugSolution.rb` shows how to prevent this using explicit type checking and potentially better handling of unexpected input.
